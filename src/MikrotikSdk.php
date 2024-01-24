@@ -9,7 +9,7 @@ class MikrotikSdk
 
   public function __construct()
   {
-      $this->api = new RouterosAPI(); // Assuming the RouterosAPI class is included or available
+      $this->api = new RouterosAPI();
   }
 
   public function connect($ip, $login, $password)
