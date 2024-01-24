@@ -1,0 +1,25 @@
+{
+  "name": "mikrotik/php-sdk",
+  "description": "A PHP SDK for Mikrotik API",
+  "version": "1.0.0",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alvin Kiveu",
+      "email": "alvo967@gmail.com",
+      "homepage": "https://umeskiasoftwares.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4 || ^8.0",
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "MikrotikSdk\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
