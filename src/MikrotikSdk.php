@@ -1,6 +1,8 @@
 <?php
 namespace MikrotikSdk;
 
+include_once 'RouterosAPI.php';
+
 use RouterosAPI;
 
 class MikrotikSdk
