@@ -1,5 +1,5 @@
 {
-  "name": "mikrotik/php-sdk",
+  "name": "ums/mikrotik",
   "description": "A PHP SDK for Mikrotik API",
   "version": "2.2.0",
   "type": "library",
@@ -14,7 +14,7 @@
   "require": {
     "php": "^7.4 || ^8.0",
     "guzzlehttp/guzzle": "^7.0",
-    "mikrotik/php-sdk": "^2.2"
+    "ums/mikrotik": "^2.2"
   },
   "autoload": {
     "psr-4": {
