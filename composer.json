@@ -1,7 +1,7 @@
 {
   "name": "ums/mikrotik",
   "description": "A PHP SDK for Mikrotik API",
-  "version": "2.4.0",
+  "version": "2.4.2",
   "type": "library",
   "license": "MIT",
   "authors": [
