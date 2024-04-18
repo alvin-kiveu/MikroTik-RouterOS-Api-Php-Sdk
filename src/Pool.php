@@ -7,6 +7,7 @@ use MikrotikSdk\MikrotikSdk;
 
 class Pool extends MikrotikSdk
 {
+  
 
     public function getPool($ip, $login, $password)
     {
