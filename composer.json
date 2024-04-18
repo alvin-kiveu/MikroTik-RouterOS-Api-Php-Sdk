@@ -13,6 +13,7 @@
   ],
   "require": {
     "php": "^7.4 || ^8.0",
+    "guzzlehttp/guzzle": "^7.0"
     "guzzlehttp/guzzle": "^7.0",
     "ums/mikrotik": "^2.2"
   },
