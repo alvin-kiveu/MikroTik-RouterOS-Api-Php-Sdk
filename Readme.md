@@ -8,7 +8,7 @@ This PHP SDK provides a convenient interface for interacting with the Mikrotik R
 This PHP SDK provides a convenient interface for interacting with the Mikrotik RouterOS API. You can use this SDK to connect to a Mikrotik device, execute commands, and manage the RouterOS configuration.
 
 ```bash
-composer require mikrotik/php-sdk
+composer require ums/mikrotik
 ```
 
 ### Usage
@@ -97,6 +97,8 @@ if ($connect) {
 }
 
 ```
+
+The ip address, username, and password should be replaced with the actual values of your Mikrotik device.
 
 ### License
 
