@@ -6,6 +6,8 @@ use MikrotikSdk\MikrotikSdk;
 
 class Hotspot extends MikrotikSdk
 {
+
+  
   
   
 }
