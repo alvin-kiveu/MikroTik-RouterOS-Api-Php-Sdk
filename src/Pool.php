@@ -36,7 +36,7 @@ class Pool extends MikrotikSdk
           $this->disconnect();
           return json_encode($pool);
        }else{
-            return json_encode(['error' => 'Failed to connect to the Mikrotik']);
+          return json_encode(['error' => 'Failed to connect to the Mikrotik']);
        }
     }
 
