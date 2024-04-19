@@ -8,6 +8,4 @@ class Hotspot extends MikrotikSdk
 {
 
   
-  
-  
 }
