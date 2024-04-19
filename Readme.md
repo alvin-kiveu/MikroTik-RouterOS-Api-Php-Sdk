@@ -128,6 +128,22 @@ If you find this project useful, please consider making a donation. Any funds do
 - [Mikrotik RouterOS API Wiki](https://wiki.mikrotik.com/wiki/Manual:API)
 
 
+```
+
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+## Donate to this project
+
+If you find this project useful, please consider making a donation. Any funds donated will be used to help further development on this project.
+
+[![Donate](https://img.shields.io/badge/Donate-PayStack-brightgreen)](https://paystack.com/pay/oqwdgv9xck)
+
+
+
+
 
 
 
