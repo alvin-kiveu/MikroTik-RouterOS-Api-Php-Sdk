@@ -6,6 +6,5 @@ use MikrotikSdk\MikrotikSdk;
 
 class PPPoE extends MikrotikSdk
 {
-
  
 }
