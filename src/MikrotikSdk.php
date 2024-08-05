@@ -25,4 +25,12 @@ class MikrotikSdk
         $this->api->disconnect();
     }
 
+    //GET MIKROTIK INFO
+    public function getMikrotikInfo()
+    {
+        $this->api->write('/system/resource/print');
+        $mikrotikInfo = $this->api->read();
+        return $mikrotikInfo;
+    }
+
 }
